@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Max</h1>
 <h3 align="center">Corporate student from Germany studying applied computer science</h3>
 
-- 🔭 I’m currently working on [The PlantBuddy Project](https://github.com/plantineers)
+<!-- - 🔭 I’m currently working on [PROJECT](PROJECT_URL) -->
 - 🌱 I’m currently learning Rust and Go
 - 💬 Ask me about Flutter and GCP
 
