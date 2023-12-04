@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Max</h1>
 <h3 align="center">Cooperative student from Germany studying applied computer science</h3>
 
-<!-- - 🔭 I’m currently working on [PROJECT](PROJECT_URL) -->
-- 🌱 I’m currently learning Rust and Go
+- 🌱 I’m currently learning Rust and C++
+- 🔭 I’m currently working on the autonomous systems team at [CURE](https://curemannheim.de/teams/AS)
 - 💬 Ask me about Flutter and GCP
 
 <h2>Look at my star lists:</h2>
