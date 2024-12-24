@@ -12,3 +12,4 @@
 - [🎓 What I need for uni](https://github.com/stars/mfloto/lists/uni)
 - [👩‍🏫 Ressources I utilize for learning](https://github.com/stars/mfloto/lists/learning)
 - [What my friends have made](https://github.com/stars/mfloto/lists/friends)
+- [🧩 My favourite Gnome extensions](https://github.com/stars/mfloto/lists/favourite-gnome-extensions)
