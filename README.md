@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Max</h1>
-<h3 align="center">Cooperative student from Germany studying applied computer science</h3>
+<h3 align="center">Cloud DevOps Engineer from Germany</h3>
 
-- 🌱 I’m currently learning Rust and C++
-- 🔭 I’m currently working on the autonomous systems team at [CURE](https://curemannheim.de/teams/AS)
-- 💬 Ask me about Flutter and GCP
+- 🌱 I’m currently learning Rust
+- 🔭 I have studied applied computer science
+- 💬 Ask me about GCP
 
 <h2>Look at my star lists:</h2>
 
